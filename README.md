@@ -12,6 +12,6 @@ I've got experience in React / Vue / Angular + Node / ASP.NET Core..<br/>
 
 - 📫 How to reach me: ...
 
-This is my ✔Skype ID
-live:stevenc_91
+This is my Skype ID <br/>
+<b>live:stevenc_91</b>
 
