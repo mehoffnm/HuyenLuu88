@@ -6,12 +6,12 @@ My Name is Huyen Luu.
 
 - 👯 I’m looking to collaborate on some other jobs.
 
-I'm a full stack developer who is mainly focused on ASP.NET.
-I'm good at C#, PHP and Python.
-I've got experience in React / Vue / Angular + Node / ASP.NET Core..
+I'm a full stack developer who is mainly focused on ASP.NET. <br/>
+I'm good at C#, PHP and Python.<br/>
+I've got experience in React / Vue / Angular + Node / ASP.NET Core..<br/>
 
 - 📫 How to reach me: ...
 
-This is my white_check_markSkype ID
+This is my ✔Skype ID
 live:stevenc_91
 
